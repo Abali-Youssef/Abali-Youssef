@@ -72,7 +72,7 @@
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>  
 </div>  
 
-
+</td><td valign="top" width="33%">
 
 ### OS & tools  
 <div align="center">  
@@ -111,7 +111,7 @@
 <br/>  
 
 
-## Recent Blog Posts  
+## Profile visits  
   
 
 <br/>  
